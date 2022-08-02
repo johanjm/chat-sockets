@@ -1,11 +1,12 @@
 # chat-sockets
 
-#Integrantes:
+# Integrantes:
 
 Johan Quinatoa
+
 Bryan Quisaguano
 
 
-#Link del video del chat funcionando:
+# Link del video del chat funcionando:
 
 https://youtu.be/UshYqGFOnXw
